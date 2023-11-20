@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\bin\Debug\net7.0\dateTime-ve-math_siniflari.exe
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\bin\Debug\net7.0\dateTime-ve-math_siniflari.deps.json
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\bin\Debug\net7.0\dateTime-ve-math_siniflari.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\bin\Debug\net7.0\dateTime-ve-math_siniflari.dll
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\bin\Debug\net7.0\dateTime-ve-math_siniflari.pdb
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\dateTime-ve-math_siniflari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\dateTime-ve-math_siniflari.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\dateTime-ve-math_siniflari.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\dateTime-ve-math_siniflari.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\dateTime-ve-math_siniflari.dll
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\refint\dateTime-ve-math_siniflari.dll
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\dateTime-ve-math_siniflari.pdb
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\dateTime-ve-math_siniflari.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\dateTime-ve-math_siniflari\obj\Debug\net7.0\ref\dateTime-ve-math_siniflari.dll
